@@ -1,0 +1,38 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37b27083-5b0c-44b7-b1c4-59dada65f303" name="dev-design.novikom.idefa.ru" url="http://77.247.241.226">
+        <fileTransfer host="77.247.241.226" port="22112" rootFolder="/home/bitrix/ext_www/dev-design.novikom.idefa.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22112" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2e64cc6a-42b0-48bd-ac4c-0782736341e7" name="dev-marfin.renault-dev.idefa.ru" url="http://77.247.241.226">
+        <fileTransfer host="77.247.241.226" port="22106" rootFolder="/home/bitrix/ext_www/dev-marfin.renault-dev.idefa.ru" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22106" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2299e149-c946-4803-9212-104f0e9ae0ab" name="dev.fintconf.idefa.ru" url="http://93.174.131.170">
+        <fileTransfer host="93.174.131.170" port="22" rootFolder="/home/fintconf/dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="367f5de6-30e6-4294-a630-bd4f1690bb83" name="dev-texterra.ibs.ru" url="http://dev-texterra.ibs.ru">
+        <fileTransfer host="dev-texterra.ibs.ru" port="22" rootFolder="/home/ibs/dev-texterra" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
