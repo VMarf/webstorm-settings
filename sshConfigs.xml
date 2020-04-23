@@ -11,6 +11,9 @@
       <sshConfig authType="PASSWORD" host="77.247.241.226" id="2132f902-edd6-401b-a0e8-8e77fb13db67" port="22106" customName="dev-marfin.renault-dev.idefa.ru" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="93.174.131.170" id="3cac03c1-0b01-4526-85ea-7f699b7a8fcf" port="22" customName="dev.fintconf.idefa.ru" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="dev-texterra.ibs.ru" id="8d5b6efa-54bb-49f2-8678-8a88ada0d79f" port="22" customName="dev-texterra.ibs.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="77.247.241.226" id="5a39254e-a936-4004-8962-82fd7478c64f" port="22106" customName="dev-marfin.renault-dev.idefa.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="93.174.131.170" id="ebf0fba4-16e1-4716-a35d-bab232c86cfd" port="22" customName="dev.fintconf.idefa.ru" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="dev-texterra.ibs.ru" id="7f325110-a1e7-4cbb-96c7-15ce805624d8" port="22" customName="dev-texterra.ibs.ru" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
